@@ -20,7 +20,7 @@
   <img align="center" alt="jr-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="jr-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="jr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="jr-eu" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="jr-eu" height="150" style="border-radius:50px;" src="https://github.com/JuniorDaliessi/JuniorDaliessi/blob/main/img/1679445087758.jpg">
 </div>
   
   ##
