@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text="/>
+
 ### JUNIOR DALIESSI 👋
 
 
@@ -32,3 +34,5 @@
 </div>
   
   ![Snake animation](https://github.com/JuniorDaliessi/JuniorDaliessi/blob/output/github-contribution-grid-snake.svg)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
