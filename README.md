@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text="/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Junior+Daliessi;I'm+36+years+old;I+from+Brasil,+SP;I+study+systems+development+at+UniCesumar;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ### JUNIOR DALIESSI 👋
 
 
@@ -7,6 +9,11 @@
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
 -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorDaliessi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Junior Daliessi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDaliessi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 <div align="center">
   <a href="https://github.com/JuniorDaliessi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorDaliessi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
