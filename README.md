@@ -11,8 +11,8 @@
 -->
 <div align="center">
   <a href="https://github.com/JuniorDaliessi">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorDaliessi&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Junior Daliessi github stats&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDaliessi&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorDaliessi&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Junior Daliessi github stats&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorDaliessi&layout=compact&langs_count=7&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
