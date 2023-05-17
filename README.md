@@ -35,6 +35,13 @@
   <a href="https://www.linkedin.com/in/junior-daliessi-001681119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JuniorDaliessi&theme=gotham)
   ![Snake animation](https://github.com/JuniorDaliessi/JuniorDaliessi/blob/output/github-contribution-grid-snake.svg)
+  
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorDaliessi&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+  
+    <div align="center"><br><p align="centre"><b>Visitors Count</b></p>  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JuniorDaliessi}/count.svg" /></p> <br></div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
