@@ -5,7 +5,7 @@
 ### JUNIOR DALIESSI 👋
 
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas
 
 -->
 <div align="center">
